@@ -1,5 +1,11 @@
 GOOGLE-tts
 
-Python-script using Googles TTS engine to produce  mp3's with spoken text out of text-files
+Python-script using Googles TTS engine to produce mp3's with spoken text 
+out of text-files
+
+usage:
+	- put input-text in ./input
+	- run tts.py
+	- you will find the spoken text in out.mp3
 
 by Breadontoast
