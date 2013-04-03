@@ -8,4 +8,8 @@ usage:
 	- run tts.py
 	- you will find the spoken text in out.mp3
 
+requires:
+	-python
+	-curl
+
 by Breadontoast
